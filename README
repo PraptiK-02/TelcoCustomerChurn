@@ -8,8 +8,8 @@ Customer churn is a critical issue for subscription-based businesses, directly i
 # Dataset
 - Source: IBM Telco Customer Churn Dataset
 - Rows: ~7,000 customers
-- **Target Variable:** Churn (Yes/No)
-- **Key Features:**
+- Target Variable: Churn (Yes/No)
+- Key Features:
   - Contract type
   - Customer tenure
   - Monthly charges
