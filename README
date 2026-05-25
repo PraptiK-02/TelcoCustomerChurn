@@ -1,13 +1,13 @@
 # Customer Churn Analysis – End-to-End Data Analytics Case Study
 
-## 📌 Business Problem
+# Business Problem
 Customer churn is a critical issue for subscription-based businesses, directly impacting revenue and long-term growth. This project analyzes customer behavior data to identify the key drivers of churn and provide actionable, data-driven recommendations to improve customer retention.
 
 ---
 
-## 📊 Dataset
-- **Source:** IBM Telco Customer Churn Dataset
-- **Rows:** ~7,000 customers
+# Dataset
+- Source: IBM Telco Customer Churn Dataset
+- Rows: ~7,000 customers
 - **Target Variable:** Churn (Yes/No)
 - **Key Features:**
   - Contract type
@@ -18,7 +18,7 @@ Customer churn is a critical issue for subscription-based businesses, directly i
 
 ---
 
-## 🛠️ Approach
+# Approach
 1. Loaded and inspected raw customer data
 2. Cleaned and prepared data for analysis
 3. Performed exploratory data analysis (EDA)
@@ -28,7 +28,7 @@ Customer churn is a critical issue for subscription-based businesses, directly i
 
 ---
 
-## 🔍 Key Insights
+# Key Insights
 - Customers on **month-to-month contracts** churn significantly more than long-term customers
 - **Low-tenure customers** are at the highest risk of churn
 - Higher **monthly charges** are strongly associated with churn
@@ -36,7 +36,7 @@ Customer churn is a critical issue for subscription-based businesses, directly i
 
 ---
 
-## 💡 Business Recommendations
+# Business Recommendations
 - Encourage customers to switch from month-to-month to long-term contracts through incentives
 - Improve onboarding and engagement during the first year of customer tenure
 - Offer targeted discounts or bundled plans for high-cost customers
@@ -44,7 +44,7 @@ Customer churn is a critical issue for subscription-based businesses, directly i
 
 ---
 
-## 🧰 Tools Used
+# Tools Used
 - Python
 - Pandas
 - Matplotlib
@@ -56,5 +56,5 @@ Customer churn is a critical issue for subscription-based businesses, directly i
 
 ---
 
-## 📈 Outcome
+# Outcome
 This project demonstrates an end-to-end analytical workflow, from raw data cleaning to insight generation and business recommendations, mirroring real-world data analyst responsibilities.
